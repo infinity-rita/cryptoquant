@@ -1,0 +1,14 @@
+{
+    "collection_slug":"ins-20",
+    "event_type":"sale", 
+    "after_timestamp":"2023-12-27 12:00:00",
+    "before_timestamp":"2023-12-27 13:00:00",
+    "tmp_csv_path":"./result/ins20/opensea_ins20_trades.csv",
+    "klines":{
+        "1min":"./result/ins20/opensea_ins20_1min_klines.csv",
+        "5min":"./result/ins20/opensea_ins20_5min_klines.csv",
+        "15min":"./result/ins20/opensea_ins20_15min_klines.csv",
+        "30min":"./result/ins20/opensea_ins20_30min_klines.csv",
+        "60min":"./result/ins20/opensea_ins20_60min_klines.csv"
+    }
+}
